@@ -1,0 +1,272 @@
+[
+  {
+    "mal_id": "1",
+    "type": "manga",
+    "name": "Action",
+    "url": "https://myanimelist.net/manga/genre/1/Action"
+  },
+  {
+    "mal_id": "2",
+    "type": "manga",
+    "name": "Adventure",
+    "url": "https://myanimelist.net/manga/genre/2/Adventure"
+  },
+  {
+    "mal_id": "3",
+    "type": "manga",
+    "name": "Cars",
+    "url": "https://myanimelist.net/manga/genre/3/Cars"
+  },
+  {
+    "mal_id": "4",
+    "type": "manga",
+    "name": "Comedy",
+    "url": "https://myanimelist.net/manga/genre/4/Comedy"
+  },
+  {
+    "mal_id": "5",
+    "type": "manga",
+    "name": "Dementia",
+    "url": "https://myanimelist.net/manga/genre/5/Dementia"
+  },
+  {
+    "mal_id": "6",
+    "type": "manga",
+    "name": "Demons",
+    "url": "https://myanimelist.net/manga/genre/6/Demons"
+  },
+  {
+    "mal_id": "43",
+    "type": "manga",
+    "name": "Doujinshi",
+    "url": "https://myanimelist.net/manga/genre/43/Doujinshi"
+  },
+  {
+    "mal_id": "8",
+    "type": "manga",
+    "name": "Drama",
+    "url": "https://myanimelist.net/manga/genre/8/Drama"
+  },
+  {
+    "mal_id": "9",
+    "type": "manga",
+    "name": "Ecchi",
+    "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+  },
+  {
+    "mal_id": "10",
+    "type": "manga",
+    "name": "Fantasy",
+    "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+  },
+  {
+    "mal_id": "11",
+    "type": "manga",
+    "name": "Game",
+    "url": "https://myanimelist.net/manga/genre/11/Game"
+  },
+  {
+    "mal_id": "44",
+    "type": "manga",
+    "name": "Gender_Bender",
+    "url": "https://myanimelist.net/manga/genre/44/Gender_Bender"
+  },
+  {
+    "mal_id": "35",
+    "type": "manga",
+    "name": "Harem",
+    "url": "https://myanimelist.net/manga/genre/35/Harem"
+  },
+  {
+    "mal_id": "12",
+    "type": "manga",
+    "name": "Hentai",
+    "url": "https://myanimelist.net/manga/genre/12/Hentai"
+  },
+  {
+    "mal_id": "13",
+    "type": "manga",
+    "name": "Historical",
+    "url": "https://myanimelist.net/manga/genre/13/Historical"
+  },
+  {
+    "mal_id": "14",
+    "type": "manga",
+    "name": "Horror",
+    "url": "https://myanimelist.net/manga/genre/14/Horror"
+  },
+  {
+    "mal_id": "42",
+    "type": "manga",
+    "name": "Josei",
+    "url": "https://myanimelist.net/manga/genre/42/Josei"
+  },
+  {
+    "mal_id": "15",
+    "type": "manga",
+    "name": "Kids",
+    "url": "https://myanimelist.net/manga/genre/15/Kids"
+  },
+  {
+    "mal_id": "16",
+    "type": "manga",
+    "name": "Magic",
+    "url": "https://myanimelist.net/manga/genre/16/Magic"
+  },
+  {
+    "mal_id": "17",
+    "type": "manga",
+    "name": "Martial_Arts",
+    "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+  },
+  {
+    "mal_id": "18",
+    "type": "manga",
+    "name": "Mecha",
+    "url": "https://myanimelist.net/manga/genre/18/Mecha"
+  },
+  {
+    "mal_id": "38",
+    "type": "manga",
+    "name": "Military",
+    "url": "https://myanimelist.net/manga/genre/38/Military"
+  },
+  {
+    "mal_id": "19",
+    "type": "manga",
+    "name": "Music",
+    "url": "https://myanimelist.net/manga/genre/19/Music"
+  },
+  {
+    "mal_id": "7",
+    "type": "manga",
+    "name": "Mystery",
+    "url": "https://myanimelist.net/manga/genre/7/Mystery"
+  },
+  {
+    "mal_id": "20",
+    "type": "manga",
+    "name": "Parody",
+    "url": "https://myanimelist.net/manga/genre/20/Parody"
+  },
+  {
+    "mal_id": "39",
+    "type": "manga",
+    "name": "Police",
+    "url": "https://myanimelist.net/manga/genre/39/Police"
+  },
+  {
+    "mal_id": "40",
+    "type": "manga",
+    "name": "Psychological",
+    "url": "https://myanimelist.net/manga/genre/40/Psychological"
+  },
+  {
+    "mal_id": "22",
+    "type": "manga",
+    "name": "Romance",
+    "url": "https://myanimelist.net/manga/genre/22/Romance"
+  },
+  {
+    "mal_id": "21",
+    "type": "manga",
+    "name": "Samurai",
+    "url": "https://myanimelist.net/manga/genre/21/Samurai"
+  },
+  {
+    "mal_id": "23",
+    "type": "manga",
+    "name": "School",
+    "url": "https://myanimelist.net/manga/genre/23/School"
+  },
+  {
+    "mal_id": "24",
+    "type": "manga",
+    "name": "Sci-Fi",
+    "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+  },
+  {
+    "mal_id": "41",
+    "type": "manga",
+    "name": "Seinen",
+    "url": "https://myanimelist.net/manga/genre/41/Seinen"
+  },
+  {
+    "mal_id": "25",
+    "type": "manga",
+    "name": "Shoujo",
+    "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+  },
+  {
+    "mal_id": "26",
+    "type": "manga",
+    "name": "Shoujo_Ai",
+    "url": "https://myanimelist.net/manga/genre/26/Shoujo_Ai"
+  },
+  {
+    "mal_id": "27",
+    "type": "manga",
+    "name": "Shounen",
+    "url": "https://myanimelist.net/manga/genre/27/Shounen"
+  },
+  {
+    "mal_id": "28",
+    "type": "manga",
+    "name": "Shounen_Ai",
+    "url": "https://myanimelist.net/manga/genre/28/Shounen_Ai"
+  },
+  {
+    "mal_id": "36",
+    "type": "manga",
+    "name": "Slice_of_Life",
+    "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+  },
+  {
+    "mal_id": "29",
+    "type": "manga",
+    "name": "Space",
+    "url": "https://myanimelist.net/manga/genre/29/Space"
+  },
+  {
+    "mal_id": "30",
+    "type": "manga",
+    "name": "Sports",
+    "url": "https://myanimelist.net/manga/genre/30/Sports"
+  },
+  {
+    "mal_id": "31",
+    "type": "manga",
+    "name": "Super_Power",
+    "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+  },
+  {
+    "mal_id": "37",
+    "type": "manga",
+    "name": "Supernatural",
+    "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+  },
+  {
+    "mal_id": "45",
+    "type": "manga",
+    "name": "Thriller",
+    "url": "https://myanimelist.net/manga/genre/45/Thriller"
+  },
+  {
+    "mal_id": "32",
+    "type": "manga",
+    "name": "Vampire",
+    "url": "https://myanimelist.net/manga/genre/32/Vampire"
+  },
+  {
+    "mal_id": "33",
+    "type": "manga",
+    "name": "Yaoi",
+    "url": "https://myanimelist.net/manga/genre/33/Yaoi"
+  },
+  {
+    "mal_id": "34",
+    "type": "manga",
+    "name": "Yuri",
+    "url": "https://myanimelist.net/manga/genre/34/Yuri"
+  }
+]
